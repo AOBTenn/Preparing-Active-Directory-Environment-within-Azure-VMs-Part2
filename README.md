@@ -21,6 +21,9 @@ This is part 2 of an outline of the steps needed to be completed before installi
 
 <h2>Procedure Steps</h2>
 
+First Dc-1's needs to be configured that the server remains the same preventing the ip address from changing, and prevent the firewall from blocking Client-1's traffic or access to the server.
+<p>
+</p>
 On the account home screen uderneath the recent activity screen click the "DC-1" virtual machine name to be take to it's home page. In the left corner of "DC-1's" home page has menu options, click the networking option and select network settings from the drop down to gain access the virtual Network Interface Card (nic) . Click on the card the be able to configure it's settings. At the middle of the page you will see "ipconfig1", click on it to be able to edit the ip address settings. In the right corner of the screen in the "Edit Ip configuration" screen, change the allocation from dynamic to static, then save the setting  by clicking save at the bottom.
 
 
