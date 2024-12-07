@@ -3,20 +3,21 @@
 
 
 
-This is an outline of the steps needed to be completed before installing Active Directory. Basically you will be setting up the environment within Microsofth Azure with two virtual machines.<br />
+This is part 2 of an outline of the steps needed to be completed before installing Active Directory. In this project protion we will be adjust the two virtual networks created in part one.<br />
 
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure
-- Virtual Machines
+- Virtual Machines: DC-1, Client-1
 - Internet 
 
 <h2>List of Prerequisites</h2>
 
 - Laptop or Desktop Pc                                                                                                                                 
 - Wifi Access
-- MKicrosoft Azure Account
+- Microsoft Azure Account
+- Previously created Virtual Machines
 
 <h2>Procedure Steps</h2>
 
