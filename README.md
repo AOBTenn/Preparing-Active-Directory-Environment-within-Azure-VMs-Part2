@@ -53,6 +53,13 @@ On the account home screen uderneath the recent activity screen click the "DC-1"
 Next you have to turn off the server firewalls. This is done by firstly using Remote Desktop the connect wth "DC-1" server. Open Remote Desktop and type DC-1's public ip address that you can get from DC-1's home page, next type the username and password created in part 1 of this project. After logging in the bottom left corner in the search bar type "Run" and open the app. In the run app type "wf.msc" to open Windows defender firewall. In the middle of the window is the hyperlink "Windows Defender Firewall Properties," click on it to be able to change it's settings. In the settings window under the sub windows Domain, Private, and Public Profile in the firewall state change all of them from on to off. Lastly click Apply and then Ok at the bottom before closing the window.
 
 
+![image](https://github.com/user-attachments/assets/9ac13ad0-fd9f-454e-af8c-c8e791bc46e2)
+![image](https://github.com/user-attachments/assets/cfaeddd9-9db6-4a54-b129-884bc1c96f7f)
+![image](https://github.com/user-attachments/assets/6f520bc1-b1be-49e5-ad48-9f1fd051df89)
+![image](https://github.com/user-attachments/assets/56c8987b-6f61-4eaa-90f8-536b9b8a06cb)
+![image](https://github.com/user-attachments/assets/636cb1d7-e2d5-43bb-b875-598f5e458811)
+![image](https://github.com/user-attachments/assets/a7a5f790-dc4a-45ca-8d66-8fef150746c5)
+![image](https://github.com/user-attachments/assets/998f8829-67f0-4f88-91aa-6aa6c0633b13)
 
 
 
