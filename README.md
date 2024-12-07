@@ -21,6 +21,6 @@ This is part 2 of an outline of the steps needed to be completed before installi
 
 <h2>Procedure Steps</h2>
 
-On the account home screen uderneath the recent activity screen click the "DC-1" virtual machine name to be take to it's home page. In the left corner of "DC-1's" home page has menu options, click the networking option and select network settings to gain acdcess to configure the Network Interface Card
- (nic). At the bottom or the middle of the page you will see "ipconfig1", click on it to be able to edit the ip address. In the 
+On the account home screen uderneath the recent activity screen click the "DC-1" virtual machine name to be take to it's home page. In the left corner of "DC-1's" home page has menu options, click the networking option and select network settings to gain acdcess to configure the Network Interface Card. Click on the card  the be able  to edit  it's settings.
+ (nic). At the bottom or the middle of the page you will see "ipconfig1", click on it to be able to edit the ip address settings. In the right corner of the screen in the "Edit Ip configuration" screen, change the allocation from dynamic to static, then save the setting  by clicking save  at the bottom.
 
