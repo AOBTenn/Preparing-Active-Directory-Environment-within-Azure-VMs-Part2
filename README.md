@@ -54,11 +54,29 @@ Next you have to turn off the server firewalls. This is done by firstly using Re
 
 
 ![image](https://github.com/user-attachments/assets/9ac13ad0-fd9f-454e-af8c-c8e791bc46e2)
+<p>Image 2
+</p>
+
 ![image](https://github.com/user-attachments/assets/cfaeddd9-9db6-4a54-b129-884bc1c96f7f)
+<p>Image 2
+</p>
+
 ![image](https://github.com/user-attachments/assets/6f520bc1-b1be-49e5-ad48-9f1fd051df89)
+<p>Image 2
+</p>
+
 ![image](https://github.com/user-attachments/assets/56c8987b-6f61-4eaa-90f8-536b9b8a06cb)
+<p>Image 2
+</p>
+
 ![image](https://github.com/user-attachments/assets/636cb1d7-e2d5-43bb-b875-598f5e458811)
+<p>Image 2
+</p>
+
 ![image](https://github.com/user-attachments/assets/a7a5f790-dc4a-45ca-8d66-8fef150746c5)
+<p>Image 2
+</p>
+
 ![image](https://github.com/user-attachments/assets/998f8829-67f0-4f88-91aa-6aa6c0633b13)
 
 
