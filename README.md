@@ -24,7 +24,7 @@ This is part 2 of an outline of the steps needed to be completed before installi
 First Dc-1's needs to be configured that the server remains the same preventing the ip address from changing, and prevent the firewall from blocking Client-1's traffic or access to the server.
 <p>
 </p>
-On the account home screen uderneath the recent activity screen click the "DC-1" virtual machine name to be take to it's home page. In the left corner of "DC-1's" home page has menu options, click the networking option and select network settings from the drop down to gain access the virtual Network Interface Card (nic) . Click on the card the be able to configure it's settings. At the middle of the page you will see "ipconfig1", click on it to be able to edit the ip address settings. In the right corner of the screen in the "Edit Ip configuration" screen, change the allocation from dynamic to static, then save the setting by clicking save at the bottom.
+On the account home screen uderneath the recent activity screen click the "DC-1" virtual machine name to be take to it's home page (refer to image 1 and 2). In the left corner of "DC-1's" home page has menu options, click the networking option and select network settings from the drop down to gain access the virtual Network Interface Card (nic) (refer to image 3) . Click on the (nic) to be able to configure it's settings. At the middle of the page you will see "ipconfig1" (refer to image 4), click on it to be able to edit the ip address settings. In the right corner of the screen in the "Edit Ip configuration" screen, change the allocation from dynamic to static, then save the setting by clicking save at the bottom (refer to image 5 and 6).
 
 ![image](https://github.com/user-attachments/assets/7eb4dcf8-8ffc-4136-a95a-c98148a6832a)
 <p>Image 1
@@ -51,7 +51,7 @@ On the account home screen uderneath the recent activity screen click the "DC-1"
 </p>
 
 
-Next you have to turn off the server firewalls. This is done by firstly using Remote Desktop the connect wth "DC-1" server. Open Remote Desktop and type DC-1's public ip address that you can get from DC-1's home page, next type the username and password created in part 1 of this project. After logging in the bottom left corner in the search bar type "Run" and open the app. In the run app type "wf.msc" to open Windows defender firewall. In the middle of the window is the hyperlink "Windows Defender Firewall Properties," click on it to be able to change it's settings. In the settings window under the sub windows Domain, Private, and Public Profile in the firewall state change all of them from on to off. Lastly click Apply and then Ok at the bottom before closing the window.
+Next you have to turn off the server firewalls. This is done by firstly using Remote Desktop the connect wth "DC-1" server. Open Remote Desktop and type DC-1's public ip address that you can get from DC-1's home page (refer to image 7 and 8), next type the username and password created in part 1 of this project (refer to image 9). After logging in the bottom left corner in the search bar type "Run" and open the app (refer to image 10). In the run app type "wf.msc" to open Windows defender firewall (refer to image 11). In the middle of the window is the hyperlink "Windows Defender Firewall Properties," click on it to be able to change it's settings (refer to image 12). In the settings window under the sub windows Domain, Private, and Public Profile in the firewall state change all of them from on to off (refer to image 13). Lastly click Apply and then Ok at the bottom before closing the window.
 
 
 ![image](https://github.com/user-attachments/assets/9ac13ad0-fd9f-454e-af8c-c8e791bc46e2)
@@ -79,7 +79,8 @@ Next you have to turn off the server firewalls. This is done by firstly using Re
 </p>
 
 ![image](https://github.com/user-attachments/assets/998f8829-67f0-4f88-91aa-6aa6c0633b13)
-
+<p>Image 13
+</p>
 
 
 (refer to image 1)
