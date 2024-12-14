@@ -90,14 +90,36 @@ The first step is to go back to DC1's home screen, and in the middle of the home
 
 
 ![image](https://github.com/user-attachments/assets/9fcb6431-cfe4-46cd-b635-a6fd7d88c31b)
-![image](https://github.com/user-attachments/assets/7f64e20f-8cea-4c45-9d7a-b1cd25f7846a)
-![image](https://github.com/user-attachments/assets/234e4879-98f3-4b4c-9fd0-7840fa9c7abe)
-![image](https://github.com/user-attachments/assets/e803beb6-325b-4721-9e2f-86f9c1676396)
-![image](https://github.com/user-attachments/assets/711711bd-310b-40f5-9c8a-8a180d002fe7)
-![image](https://github.com/user-attachments/assets/e9aa5e23-6c74-4ffb-9337-2c5da41b924c)
-![image](https://github.com/user-attachments/assets/4f157ce6-40c7-43a9-95ba-ec0a8b5ac634)
-![image](https://github.com/user-attachments/assets/56ab2e2e-ec72-41ae-a028-3d1d685ed50e)
+<p>Image 14
+</p>
 
+![image](https://github.com/user-attachments/assets/7f64e20f-8cea-4c45-9d7a-b1cd25f7846a)
+<p>Image 15
+</p>
+
+![image](https://github.com/user-attachments/assets/234e4879-98f3-4b4c-9fd0-7840fa9c7abe)
+<p>Image 16
+</p>
+
+![image](https://github.com/user-attachments/assets/e803beb6-325b-4721-9e2f-86f9c1676396)
+<p>Image 17
+</p>
+
+![image](https://github.com/user-attachments/assets/711711bd-310b-40f5-9c8a-8a180d002fe7)
+<p>Image 18
+</p>
+
+![image](https://github.com/user-attachments/assets/e9aa5e23-6c74-4ffb-9337-2c5da41b924c)
+<p>Image 19
+</p>
+
+![image](https://github.com/user-attachments/assets/4f157ce6-40c7-43a9-95ba-ec0a8b5ac634)
+<p>Image 20
+</p>
+
+![image](https://github.com/user-attachments/assets/56ab2e2e-ec72-41ae-a028-3d1d685ed50e)
+<p>Image 21
+</p>
 
 
 
